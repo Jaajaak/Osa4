@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+    "title": "Rest test1",
+    "author": "Matti TestiTestaajanpoika",
+    "url": "OikeaOikeastiURL123",
+    "likes": "76"
+}
