@@ -2,8 +2,9 @@ POST http://localhost:3001/api/blogs
 Content-Type: application/json
 
 {
-    "title": "Rest test1",
-    "author": "Matti TestiTestaajanpoika",
-    "url": "OikeaOikeastiURL123",
-    "likes": "76"
+    "title": "Rest teeest",
+    "author": "Matti npoika123",
+    "url": "url513",
+    "likes": "763",
+    "userId": "6634149e87f95a8f11614607"
 }
