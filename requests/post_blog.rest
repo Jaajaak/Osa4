@@ -1,10 +1,11 @@
 POST http://localhost:3001/api/blogs
 Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkphYWtrbzEyMyIsImlkIjoiNjY1MWZjNmU4OTlkN2YxNjdjMjRjZDBhIiwiaWF0IjoxNzE2NjQ5OTUyfQ.suhngJG3mOGTXlYoBhRhl54EyavvAvHRmfv8_wBrr7U
 
 {
-    "title": "Rest teeest",
-    "author": "Matti npoika123",
-    "url": "url513",
+    "title": "Token testi",
+    "author": "On joo",
+    "url": "url5133213",
     "likes": "763",
-    "userId": "6634149e87f95a8f11614607"
+    "userId": "6651fc6e899d7f167c24cd0a"
 }

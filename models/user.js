@@ -8,7 +8,7 @@ const userSchema = mongoose.Schema({
     unique: true // username oltava yksikäsitteinen
   },
   name: String,
-  ppasswordHash: String,
+  passwordHash: String,
   blogs: [
     {
       type: mongoose.Schema.Types.ObjectId,
